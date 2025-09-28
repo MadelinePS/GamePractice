@@ -3,8 +3,8 @@
 *.ini
 *.apk
 
-Saved/*
-Intermediate/*
-Binaries/*
-Build/*
-DerivedDataCache/*
+GamePractice/Saved/*
+GamePractice/Intermediate/*
+GamePractice/Binaries/*
+GamePractice/Build/*
+GamePractice/DerivedDataCache/*
