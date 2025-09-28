@@ -1,0 +1,9 @@
+# .gitignore template as recommended by prof
+*.bin
+*.ini
+*.apk
+
+Saved/*
+Intermediate/*
+Binaries/*
+Build/*
